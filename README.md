@@ -43,10 +43,10 @@ My goal is to continue raising quality standards in Salesforce environments, com
 
 
 <h2>🧭 Salesforce Trailhead</h2>
-<table border="0" style="border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <!-- Columna 1: Rango -->
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
       <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" width="120"/><br>
       <span style="color:#0074D9; font-weight:bold;">Rank:</span>
       <span style="color:goldenrod; font-weight:bold;"> Expeditioner</span><br>
@@ -54,7 +54,8 @@ My goal is to continue raising quality standards in Salesforce environments, com
       <span style="font-weight:bold;">Points:</span> 49,825<br>
       <span style="font-weight:bold;">Trails:</span> 13
     </td>
-    <td style="vertical-align: top;">
+    <!-- Columna 2: Superbadge -->
+    <td style="border: none; vertical-align: top;">
       <img src="https://developer.salesforce.com/resource/images/trailhead/badges/superbadges/trailhead_superbadge_business_administration_specialist.png" width="120"/><br>
       <span style="font-weight:bold;">Superbadge</span><br>
       <span style="color:#0074D9; font-weight:bold;">Business Administration Specialist</span><br>
@@ -62,6 +63,7 @@ My goal is to continue raising quality standards in Salesforce environments, com
     </td>
   </tr>
 </table>
+
 
  ### 💳 Github Profile Summary Card
  
@@ -107,5 +109,3 @@ My goal is to continue raising quality standards in Salesforce environments, com
 
 ---
 
-- ⚡ Fun fact: ...
--->
