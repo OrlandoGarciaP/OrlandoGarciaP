@@ -43,7 +43,7 @@ My goal is to continue raising quality standards in Salesforce environments, com
 
 
 <h2>🧭 Salesforce Trailhead</h2>
-<table>
+<table border="0" style="border-collapse: collapse;">
   <tr>
     <!-- Columna 1: Rango -->
     <td style="vertical-align: top; padding-right: 20px;">
@@ -107,18 +107,5 @@ My goal is to continue raising quality standards in Salesforce environments, com
 
 ---
 
-
-<!--
-**OrlandoGarciaP/OrlandoGarciaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
